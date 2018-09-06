@@ -1,0 +1,8 @@
+H:\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.csprojAssemblyReference.cache
+H:\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.csproj.CoreCompileInputs.cache
+H:\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfoInputs.cache
+H:\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfo.cs
+H:\Documents\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.csprojAssemblyReference.cache
+H:\Documents\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.csproj.CoreCompileInputs.cache
+H:\Documents\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfoInputs.cache
+H:\Documents\Blackjack game\Blackjack\Blackjack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfo.cs
